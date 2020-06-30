@@ -1,9 +1,9 @@
-#Savanna
+# Savanna
 
 This project was made for the concurrent programming class, 
 its purpose is to simulate a warehouse suppliers using   threads and the client-server model.
 
-##Specifications
+## Specifications
 
 design specifications
 
