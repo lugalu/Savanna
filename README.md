@@ -15,7 +15,7 @@ design specifications
 User
 
 * Username:
-* User ID (exclusive); (should be random, but Savanna chose to sequential)
+* User ID (exclusive); (should be random, but Savanna chose to be sequential)
 * ArrayList of registered products. 
 
 Chat
